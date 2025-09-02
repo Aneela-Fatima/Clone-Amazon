@@ -1,1 +1,2 @@
 # Clone-Amazon
+To put what I learned into practice, I followed along with a YouTube tutorial and built my first project—an Amazon clone. This project helped me understand how to structure a webpage, style it, and organize elements to make it look like a real platform. It wasn’t just about copying code, but about learning the thought process behind creating layouts, working with CSS properties, and seeing how small details come together to form a complete design.
